@@ -1,5 +1,8 @@
 # 💫 About Me:
-     I'm Spandana, a coding enthusiast & web developer in progress.<br><br>🎓Computer Science Engineering Student <br>💻Currently learning HTML, CSS, JavaScript, React, and Node.js<br>🚀Passionate about coding and becoming a full stack developer<br><br>
+     I'm Spandana, a coding enthusiast & web developer in progress.<br><br>
+     🎓Computer Science Engineering Student <br>
+     💻Currently learning HTML, CSS, JavaScript, React, and Node.js<br>
+     🚀Passionate about coding and becoming a full stack developer<br><br>
 
 
 ## 🌐 Socials:
